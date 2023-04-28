@@ -31,7 +31,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>Pandit Oshij Trivedi</h2>
+        <h2>Oshij Trivedi</h2>
       </div>
     </div>
   );
